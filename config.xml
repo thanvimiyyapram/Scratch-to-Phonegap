@@ -7,13 +7,13 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>[scratch bubbleshooter]</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
+    <author href="http://scratch.mit.edu/users/[thanvi]" email="[thanvi1231@gmail.com]">
         [Your Username]
     </author>
 
